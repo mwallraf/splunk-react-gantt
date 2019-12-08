@@ -1,0 +1,7 @@
+<nav color="#171d21">
+    <collection label="Custom Visualizations">
+        <view name="bam"/>
+        <view name="radar"/>
+        <view name="donut"/>
+    </collection>
+</nav>
