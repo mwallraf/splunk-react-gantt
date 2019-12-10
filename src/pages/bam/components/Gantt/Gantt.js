@@ -4,6 +4,8 @@ import 'dhtmlx-gantt/codebase/dhtmlxgantt.css';
 
 export default class Gantt extends Component {
 
+
+
   // instance of gantt.dataProcessor
   dataProcessor = null;
 
